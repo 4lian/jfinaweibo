@@ -1,0 +1,7 @@
+User-agent: *
+
+Disallow:/common/
+Disallow:/images/
+Disallow:/upload/
+
+Sitemap: http://www.91zcm.com/rss.xml

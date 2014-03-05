@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="jfinaweibo"
+  id="myeclipse.1393901582270"
+  context-root="/jfinaweibo"
+  j2ee-spec="5.0"
+  archive="jfinaweibo.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
